@@ -1,0 +1,18 @@
+Text file for note taking.
+
+
+So first create a new repository on your github
+
+And start a new nextjs project
+
+I want you to do branching. So msg me if you dont understand branching and ill teach you. 
+So youll branch out of master and make a pull request which ill check and approve
+
+Basically you need to create a new Page that pretty much looks like my home page.
+
+1. SCSS or styledcomponents. I think scss will be easier for you
+2. Nextjs
+3. I want you to do hooks (Do dark mode light mode)
+
+
+We will have to work on it one by one, so set up the project and then I can give you tasks
