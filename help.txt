@@ -16,3 +16,8 @@ Basically you need to create a new Page that pretty much looks like my home page
 
 
 We will have to work on it one by one, so set up the project and then I can give you tasks
+
+task 1
+    First task I want to give you is the home page. 
+    the first section you see when you land on the website. 
+    The height will be 100vh which is full height of the screen
