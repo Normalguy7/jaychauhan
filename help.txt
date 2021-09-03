@@ -16,3 +16,13 @@ Basically you need to create a new Page that pretty much looks like my home page
 
 
 We will have to work on it one by one, so set up the project and then I can give you tasks
+
+Task 1
+    First task I want to give you is the home page. 
+    the first section you see when you land on the website. 
+    The height will be 100vh which is full height of the screen
+
+2: Look at my website and get a intro page loaded. 
+    1) Install scss for styling
+    2) use https://fonts.google.com/ for fonts and set it up for your nextjs application
+    3) design your first landing page and make a PR 
