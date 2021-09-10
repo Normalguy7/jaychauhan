@@ -1,4 +1,4 @@
-import styles from "../styles/Layout.module.css";
+import styles from "../styles/Layout.module.scss";
 
 const Layout = ({ children }) => {
   return (
