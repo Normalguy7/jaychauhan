@@ -1,11 +1,12 @@
 import Link from "next/link";
+import navStyles from "../styles/nav.module.scss";
 
 const Nav = () => {
   return (
-    <nav>
+    <nav className={navStyles.nav}>
       <ul>
         <li>
-          <Link href="/">Home</Link>
+          <Link href="/">Contact me</Link>
         </li>
       </ul>
     </nav>
