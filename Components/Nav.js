@@ -7,6 +7,7 @@ const Nav = () => {
       <ul>
         <li>
           <Link href="/">Contact me</Link>
+          <Link href="/">Profile</Link>
         </li>
       </ul>
     </nav>

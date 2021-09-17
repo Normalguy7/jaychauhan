@@ -11,8 +11,9 @@ export default function Home() {
         <title>Jay Chauhan</title>
         <meta name="resume" content="web cv" />
       </Head>
-      <h1>Welcome to my Next CV Site</h1>
-      <h2>By Jay Chauhan</h2>
+      <h1>Hi Im Jay</h1>
+      <p>NextJS</p>
+      <p>ReactJS</p>
     </div>
   );
 }
